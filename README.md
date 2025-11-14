@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, eu sou Hyego Jarllys</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software • Focado em Dados, BI e Automação Low-code
 </p>
 
 ##Sobre mim
