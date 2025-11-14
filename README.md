@@ -1,21 +1,15 @@
-<h1 align="center">👋 Olá, eu sou Hyego Jarllys</h1>
+<h1 align="center"> Olá, eu sou Hyego Jarllys</h1>
 
 <p align="center">
   Estudante de Engenharia de Software • Focado em Dados, BI e Automação Low-code
 </p>
 
----
-
-## 🚀 Sobre mim
+##Sobre mim
 
 Sou estudante de **Engenharia de Software** com forte interesse em **Análise de Dados**, **Business Intelligence**, **Automação low-code/no-code** e práticas de **DevOps**.  
-Atualmente estou criando projetos que integram dados, automações e visualizações para resolver problemas reais com eficiência.
+Atualmente estou criando projetos que integram dados, automações e visualizações para resolver problemas de negócios reais com eficiência.
 
-Gosto de transformar dados em **insights**, automatizar processos repetitivos e construir soluções simples, escaláveis e úteis.
-
----
-
-## 🧠 Áreas de Estudo e Foco
+## Áreas de Estudo e Foco
 
 - Análise de Dados & Business Intelligence  
 - Python para automação e análise  
@@ -25,9 +19,7 @@ Gosto de transformar dados em **insights**, automatizar processos repetitivos e 
 - Práticas DevOps para projetos pessoais  
 - Git/GitHub e versionamento  
 
----
-
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 **Linguagens & Análise**
 - Python  
@@ -50,14 +42,14 @@ Gosto de transformar dados em **insights**, automatizar processos repetitivos e 
 
 ---
 
-## 📊 Projetos em Destaque
+## Projetos em Destaque
 
 👉 *Em breve estarei publicando mais projetos voltados à área de dados, automação e dashboards.*  
 Enquanto isso, você pode acompanhar os commits e repositórios já iniciados no meu perfil.
 
 ---
 
-## 🌱 O que estou aprendendo agora
+## O que estou aprendendo agora
 
 - Técnicas de ETL e data pipelines  
 - Integração entre APIs e automações no n8n  
