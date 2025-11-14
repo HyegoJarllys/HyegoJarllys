@@ -20,24 +20,30 @@ Atualmente estou criando projetos que integram dados, automações e visualizaç
 
 ## Tecnologias & Ferramentas
 
-**Linguagens & Análise**
-- Python  
-- SQL  
+### **Linguagens e Análise**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-**BI & Visualização**
-- Power BI  
-- Modelagem de dados  
-- DAX básico/intermediário  
+### **BI & Visualização**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
 
-**Automação**
-- n8n  
-- Integrações API  
-- ETL simples  
+### **Automação & Integrações**
+<p>
+  <img src="https://img.shields.io/badge/n8n-FE5F55?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação%20Low--code-6C63FF?style=for-the-badge"/>
+</p>
 
-**DevOps & Versionamento**
-- Git • GitHub  
-- Pipelines básicos  
-- Controle de versões  
+### **DevOps & Versionamento**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-1488C6?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
 
 ---
 
