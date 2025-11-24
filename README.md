@@ -32,12 +32,6 @@ Atualmente estou criando projetos que integram dados, automações e visualizaç
   <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </p>
 
-### **Automação & Integrações**
-<p>
-  <img src="https://img.shields.io/badge/n8n-FE5F55?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automação%20Low--code-6C63FF?style=for-the-badge"/>
-</p>
-
 ### **DevOps & Versionamento**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
