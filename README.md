@@ -5,7 +5,7 @@
 
 ##Sobre mim
 
-Sou estudante de **Engenharia de Software** com forte interesse em **Análise de Dados**, **Business Intelligence**, **Automação code** e práticas de **DevOps**.  
+Sou estudante de **Engenharia de Software** com forte interesse em **Análise de Dados**, **Business Intelligence**, **Automação**, **Inteligencia artificial** e práticas de **DevOps**.  
 Atualmente estou criando projetos que integram dados, automações e visualizações para resolver problemas de negócios reais com eficiência.
 
 ## Áreas de Estudo e Foco
