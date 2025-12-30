@@ -12,11 +12,11 @@ Atualmente estou criando projetos que integram dados, automações e visualizaç
 
 - Análise de Dados & Business Intelligence  
 - Python para automação e análise  
-- n8n e integrações low-code  
+- ML para análise preditiva
 - SQL / Banco de Dados  
-- Power BI e visualização de dados  
+- Power BI/ Looker e visualização de dados  
 - Práticas DevOps para projetos pessoais  
-- Git/GitHub e versionamento  
+- Git/GitHub e boas práticas de programação
 
 ## Tecnologias & Ferramentas
 
