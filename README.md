@@ -50,10 +50,10 @@ Enquanto isso, você pode acompanhar os commits e repositórios já iniciados no
 
 ## O que estou aprendendo agora
 
-- Técnicas de ETL e data pipelines  
-- Integração entre APIs e automações no n8n  
+- Técnicas de ETL e Data pipeline e RAG pipeline.  
+- Projetos de ML clássico
 - Modelagem de dados para BI  
-- Melhores práticas de Git e fluxo de desenvolvimento  
+- Melhores práticas de arquiteturas e engenharia escaláveis 
 
 ---
 
