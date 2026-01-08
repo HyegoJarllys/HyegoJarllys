@@ -5,18 +5,18 @@
 
 ##Sobre mim
 
-Sou estudante de **Engenharia de Software** com forte interesse em **Análise de Dados**, **Business Intelligence**, **Automação**, **Inteligencia artificial** e práticas de **DevOps**.  
-Atualmente estou criando projetos que integram dados, automações e visualizações para resolver problemas de negócios reais com eficiência.
+Sou estudante de **Engenharia de Software** com forte interesse em **Análise de Dados**, **Ciências de dados**, **Eng. de dados**, **Inteligencia artificial**, **MachineLearning e DeepLearning** além de práticas **DevOps**.  
+Atualmente estou criando projetos que integram dados, automações e análise preditiva para resolver problemas de negócios reais com eficiência.
 
 ## Áreas de Estudo e Foco
 
 - Análise de Dados & Business Intelligence  
 - Python para automação e análise  
 - ML para análise preditiva
+- Redes Neurais e arquiteturas de IA
 - SQL / Banco de Dados  
 - Power BI/ Looker e visualização de dados  
 - Práticas DevOps para projetos pessoais  
-- Git/GitHub e boas práticas de programação
 
 ## Tecnologias & Ferramentas
 
@@ -43,16 +43,17 @@ Atualmente estou criando projetos que integram dados, automações e visualizaç
 
 ## Projetos em Destaque
 
-👉 *Em breve estarei publicando mais projetos voltados à área de dados, automação e dashboards.*  
-Enquanto isso, você pode acompanhar os commits e repositórios já iniciados no meu perfil.
+👉 **Agente de IA com pipeline RAG e pipeline de análise de dados ponta a ponta voltado ao mercado B2G**  
+
 
 ---
 
 ## O que estou aprendendo agora
 
-- Técnicas de ETL e Data pipeline e RAG pipeline.  
+- Técnicas de ETL e Data pipeline e RAG pipeline.
+- Framewarks python para aprimoramento de habilidades em data science (numpy, pandas, scikitlearn...) 
 - Projetos de ML clássico
-- Modelagem de dados para BI  
+- Visão computacional   
 - Melhores práticas de arquiteturas e engenharia escaláveis 
 
 ---
