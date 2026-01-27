@@ -15,6 +15,7 @@ Atualmente estou criando projetos que integram dados, automações e análise pr
 - ML para análise preditiva
 - Redes Neurais e arquiteturas de IA
 - SQL / Banco de Dados  
+- Pipeline de dados e infraestruturas
 - Power BI/ Looker e visualização de dados  
 - Práticas DevOps para projetos pessoais  
 
