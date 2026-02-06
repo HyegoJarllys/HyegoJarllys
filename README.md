@@ -1,74 +1,132 @@
-<h1 align="center"> Olá, eu sou Hyego Jarllys</h1>
+👋 Hi, I’m Hyego Jarllys (Hyego Maia)
 
-<p align="center">
-</p>
+   Software Engineering Student | Data & AI Engineer (Portfolio)
+🎯 Focused on production-grade Data Platforms, AI Systems and MLOps
 
-##Sobre mim
+🧠 About Me
 
-Sou estudante de **Engenharia de Software** com forte interesse em **Análise de Dados**, **Ciências de dados**, **Eng. de dados**, **Inteligencia artificial**, **MachineLearning e DeepLearning** além de práticas **DevOps**.  
-Atualmente estou criando projetos que integram dados, automações e análise preditiva para resolver problemas de negócios reais com eficiência.
+I’m a Software Engineering student building real-world, production-oriented projects in Data Engineering, Analytics, AI and MLOps.
 
-## Áreas de Estudo e Foco
+My work goes beyond tutorials and toy examples — I focus on:
 
-- Análise de Dados & Business Intelligence  
-- Python para automação e análise  
-- ML para análise preditiva
-- Redes Neurais e arquiteturas de IA
-- SQL / Banco de Dados  
-- Pipeline de dados e infraestruturas
-- Power BI/ Looker e visualização de dados  
-- Práticas DevOps para projetos pessoais  
+end-to-end systems
 
-## Tecnologias & Ferramentas
+governance, observability and quality
 
-### **Linguagens e Análise**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+clear business value
 
-### **BI & Visualização**
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</p>
+documentation-first engineering
 
-### **DevOps & Versionamento**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-1488C6?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-</p>
+I enjoy designing systems that are scalable, auditable and ready for production, especially in B2G and enterprise contexts.
 
----
+🏗️ What I Actually Build (Not Just Study)
+🔹 AI Systems (Applied LLMs)
 
-## Projetos em Destaque
+Retrieval-Augmented Generation (RAG)
 
-👉 **Agente de IA com pipeline RAG e pipeline de análise de dados ponta a ponta voltado ao mercado B2G**  
+Hallucination reduction via grounding
 
+Async analytics for AI systems
 
----
+Cost-aware and auditable AI architectures
 
-## O que estou aprendendo agora
+B2G / institutional use cases
 
-- Técnicas de ETL e Data pipeline e RAG pipeline.
-- Framewarks python para aprimoramento de habilidades em data science (numpy, pandas, scikitlearn...) 
-- Projetos de ML clássico
-- Visão computacional   
-- Melhores práticas de arquiteturas e engenharia escaláveis 
+🔹 Data Engineering & Analytics Engineering
 
----
+End-to-end data platforms (Bronze → Silver → Gold)
 
-## 📫 Contato
+Airflow orchestration (40+ DAGs)
 
-Você pode me encontrar no LinkedIn:  
-🔗 **https://www.linkedin.com/in/hyego-maia-640ba0343**
+DBT for analytics engineering (tests, docs, lineage)
 
-E-mail profissional:  
-📧 **hyegomaia5@gmail.com**
+Data Quality with Great Expectations
 
----
+Schema evolution & data drift detection
 
-<p align="center">
-  <em>“Transformando dados em decisões e automações em resultados.”</em>
-</p>
+Observability dashboards (Streamlit)
+
+🔹 MLOps
+
+Feature engineering pipelines
+
+MLflow (tracking + registry)
+
+Batch prediction pipelines
+
+Drift detection (data & performance)
+
+Automated retraining workflows
+
+Model lifecycle management
+
+🧩 Featured Projects
+🏛️ AI Assistant for Public Services (B2G)
+
+Production-oriented RAG system for institutional environments
+
+Conversational AI with strict document grounding
+
+Vertex AI Search + Gemini
+
+Async analytics pipeline (Pub/Sub + BigQuery)
+
+Cost modeling, security, LGPD-oriented design
+
+WhatsApp-ready architecture
+
+Documentation-first, production mindset
+
+👉 Focus: AI Engineering · Cloud Architecture · Governance
+
+📦 Olist Data Platform — Production-Grade
+
+End-to-end Data + Analytics + ML platform (enterprise-style)
+
+Medallion Architecture (Bronze / Silver / Gold)
+
+46+ Airflow DAGs
+
+DBT in Gold Layer (20+ models, tests, docs)
+
+Great Expectations (60+ validations)
+
+Observability & schema evolution tracking
+
+BI dashboards (Power BI / Metabase)
+
+ML model with full MLOps lifecycle (XGBoost)
+
+👉 Focus: Data Engineering · Analytics Engineering · MLOps
+
+🛠️ Tech Stack
+🧑‍💻 Languages & Data
+📊 Data & Analytics
+🤖 Machine Learning & AI
+📈 BI & Visualization
+☁️ Infra & DevOps
+
+📚 Currently Improving
+
+Advanced Analytics Engineering with DBT
+
+Production-ready MLOps patterns
+
+Data observability & governance
+
+Applied AI for regulated environments
+
+System design & documentation best practices
+
+📫 Let’s Connect
+
+🔗 LinkedIn:
+👉 https://www.linkedin.com/in/hyego-maia-640ba0343
+
+📧 Email:
+👉 hyegomaia5@gmail.com
+
+⭐ Final note
+
+I value clarity, documentation and production thinking as much as code.
+If you’re looking for someone who understands systems end-to-end, let’s talk.
