@@ -5,13 +5,13 @@
 
 **🧠 About Me**
 
-I’m a Software Engineering student building real-world, production-oriented projects in Data Engineering, Analytics, AI and MLOps.
+I’m a Software Engineering with focus in Data and AI Engineering building real-world, production-oriented projects in Data Engineering, AI and LLMOps.
 
 My work goes beyond tutorials and toy examples — I focus on:
 
 end-to-end systems
 
-governance, observability and quality
+governance, observability automation and quality
 
 clear business value
 
