@@ -4,6 +4,13 @@
 
 I design and deploy data platforms and AI solutions that automate processes, improve data reliability and deliver real business value.
 
+Services I offer:
+• Data automation and daily report updates
+• BigQuery data warehouse setup
+• Excel/Sheets → automated pipelines
+• AI chatbots (RAG)
+• Data monitoring and alerts
+
 ## What I build
 
 - End-to-end Data Pipelines (GCP, BigQuery, Airflow, dbt)
