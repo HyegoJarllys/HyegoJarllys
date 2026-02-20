@@ -29,7 +29,7 @@ I design and deploy data platforms and AI solutions that automate processes, imp
 
 ## Featured Projects
 
-**Olist Data Platform**  
+**Automated Data Platform (Medallion Architecture)**  
 Production-style Medallion architecture with orchestration, transformations and automated data quality monitoring.
 
 **LIZ – AI Assistant (RAG System)**  
