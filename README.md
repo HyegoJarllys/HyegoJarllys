@@ -4,7 +4,8 @@
 
 I design and deploy data platforms and AI solutions that automate processes, improve data reliability and deliver real business value.
 
-Services I offer:
+
+## Services I offer:
 • Data automation and daily report updates
 • BigQuery data warehouse setup
 • Excel/Sheets → automated pipelines
@@ -13,11 +14,11 @@ Services I offer:
 
 ## What I build
 
-- End-to-end Data Pipelines (GCP, BigQuery, Airflow, dbt)
-- Automated Data Platforms (Bronze → Silver → Gold)
-- Data Quality & Observability systems
-- AI applications with RAG and LLMs
-- Event-driven architectures for scalable systems
+• Systems that automatically collect and update business data
+• Centralized data platforms (no more scattered spreadsheets)
+• Automated dashboards updated daily
+• AI assistants trained with company information
+• Monitoring systems that alert when data fails
 
 ## Focus Areas
 
