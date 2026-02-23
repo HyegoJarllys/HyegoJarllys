@@ -72,10 +72,10 @@ Python • SQL • dbt • Airflow
 GCP • BigQuery • Cloud Run • Pub/Sub  
 
 **AI**
-Vertex AI • Gemini • RAG • LLMOps  
+LangChain • NPL • RAG • LLMOps  
 
 **Engineering**
-Docker • APIs • Event-driven architecture  
+Docker • APIs • Event-driven architecture  • Batch architecture
 
 ---
 
