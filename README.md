@@ -1,63 +1,73 @@
 # Hi, I'm Hyego Maia
 
-**Data Engineer | AI Systems Builder**
+**AI Workflow Engineer | Agentic Systems & LLMOps**
 
-I build data platforms and AI solutions that automate processes, organize business data and make information reliable for decision-making.
+I design and build agentic workflows and AI-driven architectures that transform complex processes into autonomous, decision-making systems.
 
-My focus is helping companies move from manual spreadsheets and fragmented data to automated, scalable and observable systems.
+My work combines structured thinking, data engineering, and LLMOps to orchestrate intelligent agents, integrate tools and data, and create scalable workflows that execute tasks end-to-end with reliability and observability.
+
+I focus on helping companies move from manual operations and fragmented systems to intelligent, automated workflows powered by LLMs and real-time data.
 
 ---
 
 ## What I do
 
-I design and implement solutions that:
+I design and implement systems that:
 
-- Automate data collection and daily report updates  
-- Centralize data into a reliable single source of truth  
-- Replace manual Excel workflows with automated pipelines  
-- Deliver business-ready dashboards and KPIs  
-- Monitor data pipelines and alert when something breaks  
-- Build AI assistants that use company data (RAG)
+* Orchestrate multi-agent workflows for complex task execution
+* Integrate LLMs with tools, APIs, and data sources (RAG-based systems)
+* Automate decision-making processes using structured reasoning
+* Build end-to-end AI workflows (from ingestion to action)
+* Implement LLMOps pipelines (evaluation, monitoring, prompt/version control)
+* Ensure observability, reliability, and cost efficiency in AI systems
 
 ---
 
 ## Services I offer
 
-- Data pipeline automation (Airflow / Python)
-- Data warehouse implementation (BigQuery / PostgreSQL)
-- Excel / Google Sheets → automated data workflows
-- Analytics data modeling (Medallion / Star Schema)
-- Data quality and monitoring (DataOps)
-- AI assistants and chatbots (LLM + RAG)
+* AI Workflow & Agent orchestration
+* LLMOps implementation and optimization
+* RAG systems with structured data integration
+* Data pipeline automation (Airflow / Python)
+* Data platform architecture (BigQuery / PostgreSQL)
+* AI-powered automation for business processes
 
 ---
 
 ## Focus Areas
 
-- Data Engineering & Analytics Engineering  
-- Data Platforms on Google Cloud  
-- Data Quality, Observability & DataOps  
-- Production-grade AI Systems (LLMs, RAG)  
-- Automation for operational efficiency  
+* Agentic AI & Workflow Orchestration
+* AI Systems Architecture
+* LLMOps (evaluation, monitoring, optimization)
+* RAG Systems & Tool-augmented LLMs
+* Data Engineering for AI systems
+* Observability, reliability, and production AI
 
 ---
 
 ## Featured Projects
 
-### Automated Data Platform (Medallion Architecture)
-Production-style data platform with:
-- Bronze → Silver → Gold architecture  
-- Airflow orchestration and dbt transformations  
-- 300+ data quality tests  
-- Power BI dashboards  
-- **OpenClaw**: AI-powered DataOps agent that detects failures and suggests corrective actions  
+### Automated Data Platform + AI DataOps Agent
+
+Production-grade data platform with:
+
+* Medallion architecture (Bronze → Silver → Gold)
+* Airflow orchestration and dbt transformations
+* 300+ data quality tests
+* Power BI dashboards
+* **OpenClaw**: AI-powered agent that detects failures, reasons about root causes, and suggests corrective actions using RAG + LLMs
 
 [View repository →](https://github.com/HyegoJarllys/Automated-Data-Platform-Medallion-Architecture-)
 
 ---
 
-### LIZ – AI Assistant (RAG System)
-AI assistant built with event-driven architecture that provides automated responses using structured knowledge and analytics pipelines.
+### LIZ – Agentic AI Assistant (RAG System)
+
+AI assistant built with event-driven architecture that:
+
+* Uses structured knowledge and data pipelines
+* Performs context-aware reasoning
+* Executes responses based on real data and workflows
 
 [View repository →](https://github.com/HyegoJarllys)
 
@@ -65,33 +75,34 @@ AI assistant built with event-driven architecture that provides automated respon
 
 ## Tech Stack
 
+**AI & Agents**
+LLMs • RAG • LLMOps • LangChain • Agent orchestration
+
 **Data**
-Python • SQL • dbt • Airflow  
+Python • SQL • dbt • Airflow
 
 **Cloud**
-GCP • BigQuery • Cloud Run • Pub/Sub  
-
-**AI**
-LangChain • NPL • RAG • LLMOps  
+GCP • BigQuery • Cloud Run • Pub/Sub
 
 **Engineering**
-Docker • APIs • Event-driven architecture  • Batch architecture
+Docker • APIs • Event-driven architecture • Distributed systems
 
 ---
 
 ## About my approach
 
-I focus on building systems that are:
+I build systems with a strong focus on:
 
-- Automated (reduce manual work)  
-- Reliable (data quality and monitoring)  
-- Scalable (cloud-native architecture)  
-- Observable (alerts, logs and operational visibility)  
-- Ready for real-world business use  
+* Autonomy → workflows that execute without constant human input
+* Reliability → robust systems with monitoring and safeguards
+* Observability → visibility into AI decisions and pipeline behavior
+* Scalability → cloud-native, production-ready architectures
+* Structured reasoning → applying system thinking to AI workflows
 
 ---
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/hyego-maia-640ba0343
-- Email: hyegomaia5@gmail.com
+* LinkedIn: [www.linkedin.com/in/hyego-maia-640ba0343](http://www.linkedin.com/in/hyego-maia-640ba0343)
+* Email: [hyegomaia5@gmail.com](mailto:hyegomaia5@gmail.com)
+
