@@ -46,7 +46,7 @@ data and tools, and turning messy processes into observable, automated systems.
 | Project | What it is |
 |---------|-----------|
 | **[Olist Data Platform](https://github.com/HyegoJarllys/olist-data-platform)** | Enterprise-grade platform on the Olist dataset: Airflow, dbt, Docker, Great Expectations, ML drift monitoring and AI-powered diagnostics. |
-| **[Data Wrangling Challenges](https://github.com/HyegoJarllys/data-wrangling-challenges)** | Focused ETL challenges: cleaning a GA4 `dataLayer` event with a pure-function JS pipeline, and recovering a corrupted database with SQL reporting (CTAS, SQLite). |
+| **[Data Engineering Foundations](https://github.com/HyegoJarllys/data-engineering-foundations)** | A curated foundations trail: Python/pandas, real-API ingestion, SQL analytics (joins, customer segmentation) and production-style ETL challenges in JS. Built as a deliberate skills progression. |
 
 ---
 
