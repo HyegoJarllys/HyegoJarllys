@@ -18,7 +18,7 @@
 
 ---
 
-I'm a Software Engineering student who already ships production-grade AI and data systems:
+I'm a Software Engineering who already ships production-grade AI and data systems:
 agentic workflows, RAG assistants, and Medallion data platforms. I work at the intersection
 of data engineering and applied AI, building reliable pipelines, integrating LLMs with real
 data and tools, and turning messy processes into observable, automated systems.
