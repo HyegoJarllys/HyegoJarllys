@@ -52,7 +52,7 @@ data and tools, and turning messy processes into observable, automated systems.
 
 ## Experience
 
-**AI Workflow Engineer**, Estúdio Oggi (2026 to present)
+**AI Workflow Engineer**, Estúdio Oggi (03-2026 ) - ( 07 - 2026)
 Built LLM-as-Judge evaluation infrastructure (calibrated rubrics, versioned golden sets),
 multi-agent squads for workflow automation, and A/B testing across Anthropic, Google and
 OpenAI quantifying cost, latency and quality trade-offs.
