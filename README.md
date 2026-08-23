@@ -1,7 +1,7 @@
 <h1 align="center">Hyego Maia</h1>
 
 <p align="center">
-  <strong>Junior AI / Data Engineer</strong> · Python · RAG &amp; Multi-Agent Systems · Data Pipelines (GCP)
+  <strong>AI / Data Engineer</strong> · Python · RAG &amp; Multi-Agent Systems · Data Pipelines (GCP)
 </p>
 
 <p align="center">
