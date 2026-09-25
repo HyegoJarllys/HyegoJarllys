@@ -36,7 +36,7 @@ data and tools, and turning messy processes into observable, automated systems.
 
 | Project | What it is |
 |---------|-----------|
-| **[insights-llm (Architecture Case Study)](https://github.com/HyegoJarllys/insights-llm-architecture)** | A production agentic WhatsApp analytics assistant I built (private codebase); this repo is a public demonstration of its architecture. Event-driven (FastAPI + LangChain + Gemini), read-only JWT integration to a .NET PDV, three-level authorization, outbox pattern, failure-to-defense map. |
+| **[insights-llm ](https://github.com/HyegoJarllys/insights-llm-architecture)** | A production agentic WhatsApp analytics assistant I built (private codebase); this repo is a public demonstration of its architecture. Event-driven (FastAPI + LangChain + Gemini), read-only JWT integration to a .NET PDV, three-level authorization, outbox pattern, failure-to-defense map. |
 | **[LIZ (Agentic RAG Assistant)](https://github.com/HyegoJarllys/ai-assistant-rag-liz)** | Production-style RAG assistant with strict document grounding, async analytics and an IAM-aware architecture. |
 | **[Thor (LLMOps)](https://github.com/HyegoJarllys/Thor-The_Judge)** | Autonomous LLM evaluation system. Compares prompts and models with reproducible methodology and calibrated rubrics, no external frameworks. |
 | **[AI Document Extraction Pipeline](https://github.com/HyegoJarllys/ai-document-extraction-pipeline)** | End-to-end pipeline: web crawling, PDF extraction, LLM structuring, validated JSON output. |
